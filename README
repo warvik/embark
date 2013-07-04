@@ -1,0 +1,6 @@
+Embark Installation Profile
+
+Allows you to install a  Drupal 7 site and get is as ready as possible for
+custom development.
+
+There is also a drush make file included here
